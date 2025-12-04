@@ -1,13 +1,13 @@
 # MillionSongProject
 This is millionsong project of genere classification from Chuyue Wu (u1590131).
 
-In this project, I collarabeted with Shishi Jiang. Our codes are separate. Here I only uploaded my coding part.
+In this project, I collarabeted with Shishi Jiang. Our codes are separate. Here I only uploaded my coding part. It includes:
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
-Data preprocessing (encoding, scaling, feature formatting)
+### Data preprocessing (encoding, scaling, feature formatting)
 
-Model training & evaluation
+### Model training & evaluation
 
 1. Random Forest
 
@@ -15,5 +15,5 @@ Model training & evaluation
 
 3. LightGBM
 
-SHAP analysis
+### SHAP analysis
 
